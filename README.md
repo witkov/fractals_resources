@@ -5,6 +5,7 @@
 * Fractal dimension of leaves: https://www.geneseo.edu/~hartvig/research/pubs/Analysis%20of%20Leaf%20Shape.pdf
 * Example of a student project applying the box-counting method to leaves: https://www.math.tamu.edu/~mpilant/math614/StudentFinalProjects/SanPedro_Final.pdf
 * Example of a student project applying the box-counting method to neurons: http://understandingthecomplex.blogspot.com/2016/06/measuring-fractal-dimensions-box.html
+* Fractal dimension applied to aerodynamics: http://adsabs.harvard.edu/full/1988ApJ...329L..39M
 
 
 
