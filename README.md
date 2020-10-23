@@ -8,7 +8,7 @@ CALCULATING FRACTAL DIMENSIONS
 
 APPLICATIONS
 
-   Biological 
+Biological 
    
       Leaves
 
