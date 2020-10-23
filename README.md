@@ -10,7 +10,7 @@ APPLICATIONS
 
 Biological 
    
-      Leaves
+     Leaves
 
 * Fractal dimension of leaves: https://pdfs.semanticscholar.org/b361/cc616e3978a90c20f98987e90b3de68f87bf.pdf
 * Fractal dimension of leaves: https://www.geneseo.edu/~hartvig/research/pubs/Analysis%20of%20Leaf%20Shape.pdf
