@@ -3,7 +3,6 @@
 CALCULATING FRACTAL DIMENSIONS
 
 * Box-counting method of determining fractal dimension:  https://arxiv.org/abs/1804.01038
-* Basis for the box-counting method (Minkowski-Bouligand dimension): https://en.wikipedia.org/wiki/Minkowski%E2%80%93Bouligand_dimension#:~:text=In%20fractal%20geometry%2C%20the%20Minkowski,space%20(X%2C%20d)
 * Calculating fractal dimensions: https://www.wahl.org/fe/HTML_version/link/FE4W/c4.htm#dimension
 * Calculating fratal dimensions of aggregrate shapes:  https://trid.trb.org/view/352768
 
