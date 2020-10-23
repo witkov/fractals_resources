@@ -4,7 +4,7 @@ CALCULATING FRACTAL DIMENSIONS
 
 * Box-counting method of determining fractal dimension:  https://arxiv.org/abs/1804.01038
 * Calculating fractal dimensions: https://www.wahl.org/fe/HTML_version/link/FE4W/c4.htm#dimension
-* Calculating fratal dimensions of aggregrate shapes:  https://trid.trb.org/view/352768
+* Calculating fractal dimensions of aggregrate shapes:  https://trid.trb.org/view/352768
 
 APPLICATIONS
 
