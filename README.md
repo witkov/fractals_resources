@@ -25,6 +25,7 @@ Biological
 
 * Fractal properties of proteins: https://www.pnas.org/content/107/31/13696#:~:text=The%20Fractal%20Nature%20of%20Proteins,in%20which%20they%20fill%20space
 * Fractal dimension of protein sequences: http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=F347C607F196C9DC7447BD5FD348ABA6?doi=10.1.1.128.8151&rep=rep1&type=pdf
+* Fractal aspects of myosin: http://www.fractal.org/Life-Science-Technology/Publications/Fractal-aspects-of-myosin-structure.pdf
  
  Aerodynamics and Flight
 
