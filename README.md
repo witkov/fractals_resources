@@ -7,3 +7,4 @@
 * Example of a student project applying the box-counting method to neurons: http://understandingthecomplex.blogspot.com/2016/06/measuring-fractal-dimensions-box.html
 
 
+
