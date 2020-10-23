@@ -25,7 +25,7 @@ APPLICATIONS
 
 * Fractal properties of proteins: https://www.pnas.org/content/107/31/13696#:~:text=The%20Fractal%20Nature%20of%20Proteins,in%20which%20they%20fill%20space
  
-    Aerodynamics and Flight
+   Aerodynamics and Flight
 
 * Fractal dimension applied to aerodynamics: http://adsabs.harvard.edu/full/1988ApJ...329L..39M
 * Fractal dimension applied to airspace (air traffic): https://atmseminar.eurocontrol.fr/past-seminars/4th-seminar-santa-fe-nm-usa-december-2001/papers/paper_054
