@@ -7,6 +7,7 @@
 * Box-counting method applied to neurons: https://www.researchgate.net/publication/305810930_Morphology_and_Fractal-Based_Classifications_of_Neurons_and_Microglia
 * Example of a student project applying the box-counting method to neurons: http://understandingthecomplex.blogspot.com/2016/06/measuring-fractal-dimensions-box.html
 * Fractal dimension applied to aerodynamics: http://adsabs.harvard.edu/full/1988ApJ...329L..39M
+* Fractal dimension applied to airspace (networks): https://atmseminar.eurocontrol.fr/past-seminars/4th-seminar-santa-fe-nm-usa-december-2001/papers/paper_054
 
 
 
